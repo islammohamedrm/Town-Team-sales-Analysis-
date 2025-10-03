@@ -23,5 +23,7 @@ Insights & Recommendations
 # 📈 Key Insights
 
 1️⃣ Casual Wear leads sales with 63% of total revenue.
+
 2️⃣ Jeans (Levi’s & Denim) are the top-selling products.
+
 3️⃣ 93% of sales come from shops, showing low online penetration.
